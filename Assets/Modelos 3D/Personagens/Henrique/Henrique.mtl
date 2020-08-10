@@ -1,0 +1,138 @@
+# Exported from Fuse 2015.1.0
+
+newmtl Hat
+illum 4 
+Kd 1.00 1.00 1.00 
+Tf 1.00 1.00 1.00 
+Ni 1.00 
+Ks 1.00 1.00 1.00 
+Ns 512 
+adobe_reflectivity 0.04 
+adobe_bump_strength 0.0 
+d 1.0 
+
+map_d Henrique_Hat_Opacity.png
+map_Kd Henrique_Hat_Diffuse.png
+adobe_map_normal Henrique_Hat_Normal.png
+map_Ks Henrique_Hat_Specular.png
+adobe_map_shininess Henrique_Hat_Gloss.png
+
+newmtl Bottom
+illum 4 
+Kd 1.00 1.00 1.00 
+Tf 1.00 1.00 1.00 
+Ni 1.00 
+Ks 1.00 1.00 1.00 
+Ns 512 
+adobe_reflectivity 0.04 
+adobe_bump_strength 0.0 
+d 1.0 
+
+map_d Henrique_Bottom_Opacity.png
+map_Kd Henrique_Bottom_Diffuse.png
+adobe_map_normal Henrique_Bottom_Normal.png
+map_Ks Henrique_Bottom_Specular.png
+adobe_map_shininess Henrique_Bottom_Gloss.png
+
+newmtl Beard
+illum 4 
+Kd 1.00 1.00 1.00 
+Tf 1.00 1.00 1.00 
+Ni 1.00 
+Ks 1.00 1.00 1.00 
+Ns 512 
+adobe_reflectivity 0.04 
+adobe_bump_strength 0.0 
+d 1.0 
+
+map_d Henrique_Beard_Opacity.png
+map_Kd Henrique_Beard_Diffuse.png
+adobe_map_normal Henrique_Beard_Normal.png
+map_Ks Henrique_Beard_Specular.png
+adobe_map_shininess Henrique_Beard_Gloss.png
+
+newmtl Top
+illum 4 
+Kd 1.00 1.00 1.00 
+Tf 1.00 1.00 1.00 
+Ni 1.00 
+Ks 1.00 1.00 1.00 
+Ns 512 
+adobe_reflectivity 0.04 
+adobe_bump_strength 0.0 
+d 1.0 
+
+map_d Henrique_Top_Opacity.png
+map_Kd Henrique_Top_Diffuse.png
+adobe_map_normal Henrique_Top_Normal.png
+map_Ks Henrique_Top_Specular.png
+adobe_map_shininess Henrique_Top_Gloss.png
+
+newmtl Glove
+illum 4 
+Kd 1.00 1.00 1.00 
+Tf 1.00 1.00 1.00 
+Ni 1.00 
+Ks 1.00 1.00 1.00 
+Ns 512 
+adobe_reflectivity 0.04 
+adobe_bump_strength 0.0 
+d 1.0 
+
+map_d Henrique_Glove_Opacity.png
+map_Kd Henrique_Glove_Diffuse.png
+adobe_map_normal Henrique_Glove_Normal.png
+map_Ks Henrique_Glove_Specular.png
+adobe_map_shininess Henrique_Glove_Gloss.png
+
+newmtl Hair
+illum 4 
+Kd 1.00 1.00 1.00 
+Tf 1.00 1.00 1.00 
+Ni 1.00 
+Ks 1.00 1.00 1.00 
+Ns 512 
+adobe_reflectivity 0.04 
+adobe_bump_strength 0.0 
+d 1.0 
+
+map_d Henrique_Hair_Opacity.png
+map_Kd Henrique_Hair_Diffuse.png
+adobe_map_normal Henrique_Hair_Normal.png
+map_Ks Henrique_Hair_Specular.png
+adobe_map_shininess Henrique_Hair_Gloss.png
+
+newmtl Shoes
+illum 4 
+Kd 1.00 1.00 1.00 
+Tf 1.00 1.00 1.00 
+Ni 1.00 
+Ks 1.00 1.00 1.00 
+Ns 512 
+adobe_reflectivity 0.04 
+adobe_bump_strength 0.0 
+d 1.0 
+
+map_d Henrique_Shoes_Opacity.png
+map_Kd Henrique_Shoes_Diffuse.png
+adobe_map_normal Henrique_Shoes_Normal.png
+map_Ks Henrique_Shoes_Specular.png
+adobe_map_shininess Henrique_Shoes_Gloss.png
+
+newmtl Body
+illum 4 
+Kd 1.00 1.00 1.00 
+Tf 1.00 1.00 1.00 
+Ni 1.00 
+Ks 1.00 1.00 1.00 
+Ns 512 
+adobe_reflectivity 0.04 
+adobe_bump_strength 0.0 
+d 1.0 
+
+map_d Henrique_Body_Opacity.png
+map_Kd Henrique_Body_Diffuse.png
+adobe_map_normal Henrique_Body_Normal.png
+map_Ks Henrique_Body_Specular.png
+adobe_map_shininess Henrique_Body_Gloss.png
+
